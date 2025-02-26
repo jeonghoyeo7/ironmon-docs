@@ -2,6 +2,8 @@
 
 The IronMON experience is designed to be intuitive and engaging. Below is the step-by-step journey for users interacting with the platform:
 
+![Basic UI](/img/IRONMON_UI.png)
+
 1. **Visit the [IronMON Website](https://testnet.ironmon.fun)**
    - Upon arrival, users see:
      - A list of available dApps with titles and descriptions.

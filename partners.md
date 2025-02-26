@@ -1,6 +1,9 @@
 # Partners
 
-Below is a list of partner projects collaborating with IronMON. Each project contributes to the ecosystem by providing unique components for robot NFTs.
+Below is a list of partner projects collaborating with IronMON. 
+Each project contributes to the ecosystem by providing unique components for robot NFTs.
+
+More and more projects are coming to IronMON!
 
 | Logo | Project Name | Website | Twitter | Discord | Description |
 |------|--------------|---------|---------|---------|-------------|
