@@ -1,13 +1,18 @@
-# Summary
+# IronMON Documentation
 
-## IronMON Overview
+This repository contains the documentation for IronMON, a platform that rewards users with robot NFTs for interacting with dApps on the monad testnet.
 
-* [Introduction](introduction.md)
-* [What is IronMON?](what-is-ironmon.md)
-* [User Flow](user-flow.md)
+## Structure
 
-## Key Details
+The documentation is organized into the following sections:
 
-* [Features](features.md)
-* [NFT Design and Rarity](nft-design-and-rarity.md)
-* [Partner Projects](partners.md)
+- [Introduction](introduction.md)
+- [What is IronMON?](what-is-ironmon.md)
+- [User Flow](user-flow.md)
+- [Features](features.md)
+- [NFT Design and Rarity](nft-design-and-rarity.md)
+- [Partner Projects](partners.md)
+
+## Contributing
+
+If you have any suggestions or contributions, please open a pull request or create an issue.
