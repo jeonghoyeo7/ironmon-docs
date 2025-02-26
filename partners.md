@@ -1,0 +1,14 @@
+# Partners
+
+Below is a list of partner projects collaborating with IronMON. Each project contributes to the ecosystem by providing unique components for robot NFTs.
+
+| Logo | Project Name | Website | Twitter | Discord | Description |
+|------|--------------|---------|---------|---------|-------------|
+| ![LootGo Logo](/img/lootgo-logo.png) | LootGo | [https://www.lootgo.app/](https://www.lootgo.app/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/lootgoapp) | [![Discord Icon](/img/discord-logo.png)](https://discord.gg/JPGuznqJf2) | LootGo is a Web3 game where players can enjoy adventures and earn rewards. |  
+| ![TowneSquare Logo](/img/townsquare-logo.png) | TowneSquare | [https://www.townesquare.xyz/](https://www.townesquare.xyz/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/TowneSquarexyz) | [![Discord Icon](/img/discord-logo.png)](https://discord.gg/townesquare) | TowneSquare is a dApp that simplifies onboarding for Web3 users. |
+| ![Meta Leap Logo](/img/metaleap-logo.png) | Meta Leap | [https://metaleap.io/](https://metaleap.io/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/MetaLeap_io) | [![Discord Icon](/img/discord-logo.png)](https://discord.gg/tNAFtgMy) | Meta Leap is a metaverse platform offering virtual reality experiences and interactions. |
+| ![Nad.fun Logo](/img/naddotfun-logo.png) | Nad.fun | [https://land.nad.fun/](https://land.nad.fun/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/naddotfun) | | Nad.fun is a platform for buying and selling land NFTs in the metaverse. |
+| ![Narwhal Finance Logo](/img/narwhal-logo.png) | Narwhal Finance | [https://narwhal.finance/](https://narwhal.finance/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/Narwhal_Finance) | [![Discord Icon](/img/discord-logo.png)](https://discord.com/invite/bzTQuxr3ME) | Narwhal Finance is a decentralized exchange and liquidity protocol on the blockchain. |
+| ![Mozi Logo](/img/mozi-logo.png) | Mozi | [https://www.mozi.finance/](https://www.mozi.finance/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/mozifinance) | [![Discord Icon](/img/discord-logo.png)](https://discord.gg/mozifinance) | Mozi Finance is a decentralized yield farming and staking platform where users can earn passive income from crypto assets. |
+| ![Tezza Poker Logo](/img/tezzapoker-logo.png) | Tezza Poker | | | | Tezza Poker is a poker game dApp on the Monad testnet, allowing users to play and interact with the community. |
+| ![PancakeSwap Logo](/img/pancake-logo.png) | PancakeSwap | [https://pancakeswap.finance/](https://pancakeswap.finance/) | [![Twitter Icon](/img/x-logo.png)](https://x.com/PancakeSwap) | [![Discord Icon](/img/discord-logo.png)](https://discord.gg/pancakeswap) | PancakeSwap is a decentralized exchange on the BNB Chain, offering swap, staking, and yield farming services. |
