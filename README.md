@@ -2,10 +2,6 @@
 
 This repository contains the documentation for IronMON, a platform that rewards users with robot NFTs for interacting with dApps on the monad testnet.
 
-## Viewing the Documentation
-
-The documentation is best viewed on [GitBook](https://app/gitbook.com/@yourusername/ironmon-docs). However, you can also browse the Markdown files directly in this repository.
-
 ## Structure
 
 The documentation is organized into the following sections:
