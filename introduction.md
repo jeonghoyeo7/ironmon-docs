@@ -4,4 +4,4 @@ Welcome to the documentation for **IronMON**, a promotional initiative built on 
 IronMON incentivizes users to explore and interact with decentralized applications (dApps) on the Monad ecosystem by rewarding them with unique robot-themed NFTs.
 This documentation provides an overview of the project, its user flow, and features.
 
-Use them, and Mint Robots🤖
+Build Your Own Robot 🤖 - Explore the Future with Monad 💜

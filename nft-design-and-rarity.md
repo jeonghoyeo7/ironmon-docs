@@ -8,3 +8,4 @@ Robot NFTs in IronMON are built from modular components tied to dApp usage, with
   - **Colored Robot**: Using all dApps in a category unlocks a colored version of that component.
   - **Easter Egg**: Explore to unlock a colored background!
 - **Design Consistency**: Components are designed to seamlessly combine, reflecting the style of their associated dApps.
+- 
