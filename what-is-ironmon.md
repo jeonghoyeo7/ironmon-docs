@@ -8,3 +8,6 @@ Each NFT is composed of components (head, body, arms, legs, etc.) tied to specif
 - Encourage users to discover and use Monad testnet dApps.
 - Reward participation with visually appealing, customizable robot NFTs.
 - Enhance collaboration with ecosystem projects through onboarding partnerships.
+
+## Media Kit for Logo
+[Logo Media Kit Download](/img/IronMonLogo-MediaKit.zip)
