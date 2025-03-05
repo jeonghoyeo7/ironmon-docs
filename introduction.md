@@ -5,3 +5,5 @@ IronMON incentivizes users to explore and interact with decentralized applicatio
 This documentation provides an overview of the project, its user flow, and features.
 
 Build Your Own Robot 🤖 - Explore the Future with Monad 💜
+
+![Robot4](/img/Generate-04.png)
