@@ -26,5 +26,5 @@ The IronMON experience is designed to be intuitive and engaging. Below is the st
      - If not all dApps in a category are used, the component appears in black-and-white.
 
 5. **Mint the NFT**
-   - Users pay 0.1 MON to mint their robot NFT.
+   - Users pay 0.5 or 1 MON to mint their robot NFT.
    - For a user, duplicate dApp combinations cannot be minted again.
